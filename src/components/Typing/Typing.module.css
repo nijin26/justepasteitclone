@@ -1,0 +1,9 @@
+.textarea_container {
+  display: flex;
+  width: 80%;
+}
+
+textarea {
+  height: 400px;
+  width: 100%;
+}
